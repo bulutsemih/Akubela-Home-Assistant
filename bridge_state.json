@@ -1,0 +1,51 @@
+{
+  "input_boolean.akubela_test": {
+    "device_id_ext": "ha83b879297b",
+    "device_type": "Switch",
+    "feature": 0,
+    "ak_domain": "switch",
+    "device_id": "b0033d5236624f75b36c205f27d86e0a"
+  },
+  "input_boolean.klapan": {
+    "device_id_ext": "ha9bf5348557",
+    "device_type": "Switch",
+    "feature": 0,
+    "ak_domain": "switch",
+    "device_id": "0704b09f367e4db581aef7cf50915ffc"
+  },
+  "light.bridge_test_devices_virtualnye_bridge_test_light": {
+    "device_id_ext": "ha490dbc3d15",
+    "device_type": "Light",
+    "feature": 4,
+    "ak_domain": "light",
+    "device_id": "2b63564f8e504996b12e6471f2df4ef6"
+  },
+  "climate.bridge_test_devices_virtualnye_bridge_test_climate": {
+    "device_id_ext": "00001",
+    "device_type": "Floor Heat",
+    "feature": 1,
+    "ak_domain": "climate",
+    "device_id": "0ae24df1b2de466f9fd0b41e5e6807f3"
+  },
+  "cover.demo_ustroistva_virtualnye_demo_shtory": {
+    "device_id_ext": "had1b20bfecd",
+    "device_type": "Cover",
+    "feature": 1,
+    "ak_domain": "cover",
+    "device_id": "a8cf084cda97452a9d5d9cbb8c5c45d0"
+  },
+  "climate.demo_ustroistva_virtualnye_demo_konditsioner": {
+    "device_id_ext": "ha8bea8356ba",
+    "device_type": "Floor Heat",
+    "feature": 1,
+    "ak_domain": "climate",
+    "device_id": "72f348354f974b42a0fd9635ab3f2ee5"
+  },
+  "climate.demo_ustroistva_virtualnye_demo_teplyi_pol": {
+    "device_id_ext": "ha8e969150d3",
+    "device_type": "Floor Heat",
+    "feature": 1,
+    "ak_domain": "climate",
+    "device_id": "0dc4fb748f474c45851cce4cad8fea68"
+  }
+}
